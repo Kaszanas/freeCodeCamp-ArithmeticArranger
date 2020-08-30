@@ -14,8 +14,8 @@ I use it as a deliberate practice to revisit some basic concepts so I might poss
 
 #### Files:
 
-`main.py` - Console application using the defined module.
-`arithmetic_arranger.py` - Module used for arrangement of arithmetic problems.
-`test.py` - Couple of lines responsible for test execution.
-`test_module.py` - All of the tests provided by freeCodeCamp.
-`ExerciseREADME.md` - Document showing the requirements that need to be taken into consideration when writing the module.
+- `main.py` - Console application using the defined module.
+- `arithmetic_arranger.py` - Module used for arrangement of arithmetic problems.
+- `test.py` - Couple of lines responsible for test execution.
+- `test_module.py` - All of the tests provided by freeCodeCamp.
+- `ExerciseREADME.md` - Document showing the requirements that need to be taken into consideration when writing the module.
